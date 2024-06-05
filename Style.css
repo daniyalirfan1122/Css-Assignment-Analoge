@@ -1,0 +1,52 @@
+@font-face {
+    font-family:unique ;
+    src: url(fonts/OldStandardTT-Regular.ttf);
+}
+#DD {
+    color: red;
+}
+.para1 {
+    border: 5px double black;
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    padding-top: 20px; 
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+    background-color: rgb(241, 240, 228);
+}
+.para2 {
+    line-height: 2px;
+}
+.para3 {
+    display: flex;
+    margin-left: 20%;
+    
+}
+.A {
+    display: inline;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 10px 30px 10px 30px;
+    font-family: unique;
+    
+    
+}
+.B {
+    letter-spacing: 4px;
+    font-family: unique;
+}
+.C {
+    font-family: unique;
+}
+.img1 {
+    width: 210px;
+}
+.text {
+    font-family:unique;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+.img2 {
+    width: 196px;
+}
